@@ -2,3 +2,6 @@ data/*
 databaze/*
 saved_search/*
 APIkeys/*
+labeling_doctors/*
+stats/*.csv
+stats/.*.csv
