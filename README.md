@@ -11,7 +11,7 @@ We can achieve faster and more accurate medical decision-making thanks to machin
 The project is written in Python and is in the form of a jupyter notebook. Necessary libraries are in **requirements.txt**.
 
 ## Run
-To run the project you need to
+To run the project you need to:
 1. Install requirements listed in file **requirements.txt**
 2. Obtain a dataset of mentions from patient reports
 3. Obtain a dataset of evaluated mentions
