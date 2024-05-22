@@ -21,8 +21,8 @@ To run the project you need to
 7. Run **evaluate_NEL.ipynb** to evaluate linking.
 
 ## File Structure
-**NEL.ipynb** is file with implemented technique.
-**evaluate_NEL** is file used for evaluating linking.
-In folder **exploratory_analysis** there are notebooks used for experimenting and playing with implemented technique.
-In folder **exploring_dataset** there are notebooks used for exploring datasets and generating statistics about them.
-In folder **preprocessing** there are notebooks for preprocessing databases.
+- **NEL.ipynb** is file with implemented technique.
+- **evaluate_NEL** is file used for evaluating linking.
+- In folder **exploratory_analysis** there are notebooks used for experimenting and playing with implemented technique.
+- In folder **exploring_dataset** there are notebooks used for exploring datasets and generating statistics about them.
+- In folder **preprocessing** there are notebooks for preprocessing databases.
